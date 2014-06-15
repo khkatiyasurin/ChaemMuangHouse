@@ -1,0 +1,5 @@
+E:\Projects\ChaemMuangHouse\ChaemMuangHouse.Database\bin\Debug\ChaemMuangHouse.Database.dacpac
+E:\Projects\ChaemMuangHouse\ChaemMuangHouse.Database\bin\Debug\ChaemMuangHouse.Database.dll
+E:\Projects\ChaemMuangHouse\ChaemMuangHouse.Database\bin\Debug\ChaemMuangHouse.Database.pdb
+E:\Projects\ChaemMuangHouse\ChaemMuangHouse.Database\obj\Debug\ChaemMuangHouse.Database.dll
+E:\Projects\ChaemMuangHouse\ChaemMuangHouse.Database\obj\Debug\ChaemMuangHouse.Database.pdb
